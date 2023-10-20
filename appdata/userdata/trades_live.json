@@ -1,0 +1,50 @@
+[
+  {
+    "symbol": "ASTRAL",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "CLOSED",
+    "entryDate": 1688637600,
+    "exitDate": 1689069600,
+    "profit": 3.41,
+    "entryPrice": 1842.05,
+    "exitPrice": 1779.25
+  },
+  {
+    "symbol": "POWERGRID",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1625220000,
+    "exitDate": 1696842513,
+    "profit": 14.02,
+    "entryPrice": 227.95,
+    "exitPrice": 196.0
+  },
+  {
+    "symbol": "BRITANNIA",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1690279200,
+    "exitDate": 1696842513,
+    "profit": 7.42,
+    "entryPrice": 4885.6,
+    "exitPrice": 4523.2
+  },
+  {
+    "symbol": "ITC",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1690279200,
+    "exitDate": 1696842514,
+    "profit": 5.03,
+    "entryPrice": 462.3,
+    "exitPrice": 439.05
+  }
+]
