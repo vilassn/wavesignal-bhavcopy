@@ -1,58 +1,33 @@
 # WaveSignal
 
-WaveSignal is a technical analysis software with features like charting, back-testing, scanning of stocks/futures, and free quotes features. It is developed by νίĻάş ήίήάώέ to learn and improve trading skills.
+**Welcome to WaveSignal** – your comprehensive technical analysis software developed by νίĻάş ήίήάώέ to empower traders and investors with valuable tools and insights for the stock and futures markets.
 
-## Features of Software
+## Features of WaveSignal
 
-1. Practice technical analysis on historical data.
-2. Generate buy/sell signals from live data using popular strategies.
-3. Maintain practice and live records.
-4. Backtest trading strategies.
-5. Free EOD (End of Day) data feed from NSE (National Stock Exchange).
-6. Live data feed from NSE, Yahoo, ETimes, and more.
+**1. Historical Data Analysis**
+   - Dive into the world of technical analysis by practicing on historical data.
+   - Visualize price movements, patterns, and trends to make informed trading decisions.
 
-Visit the website for more information: [WaveSignal Website](https://sites.google.com/view/wavesignal)
+**2. Live Signal Generation**
+   - Harness the power of popular trading strategies to generate real-time buy/sell signals.
+   - Stay ahead of market trends and seize opportunities as they arise.
 
-## Getting Started
+**3. Record Keeping**
+   - Keep track of your practice and live trades with ease.
+   - Monitor your performance and continuously improve your trading skills.
 
-To run WaveSignal, you need to have Java and JavaFX installed. You can download them from the following links:
+**4. Backtesting**
+   - Test your trading strategies on historical data to evaluate their effectiveness.
+   - Optimize your approach and refine your trading techniques.
 
-- [Download Java](https://jdk.java.net/21/)
+**5. Free EOD Data**
+   - Access End of Day (EOD) data from the National Stock Exchange (NSE) to stay updated on market trends.
+   - Make informed investment decisions based on accurate data.
 
-  - [Linux](https://download.java.net/java/GA/jdk21.0.1/415e3f918a1f4062a0074a2794853d0d/12/GPL/openjdk-21.0.1_linux-x64_bin.tar.gz)
-  - [macOS](https://download.java.net/java/GA/jdk21.0.1/415e3f918a1f4062a0074a2794853d0d/12/GPL/openjdk-21.0.1_macos-x64_bin.tar.gz)
-  - [Windows](https://download.java.net/java/GA/jdk21.0.1/415e3f918a1f4062a0074a2794853d0d/12/GPL/openjdk-21.0.1_windows-x64_bin.zip)
+**6. Live Data Feed**
+   - Enjoy live data feeds from NSE, Yahoo, ETimes, and more sources.
+   - Receive real-time market information to act swiftly in dynamic market conditions.
 
-- [Download JavaFX](https://jdk.java.net/javafx21/)
+Visit our website for more information and updates: [WaveSignal Website](https://sites.google.com/view/wavesignal)
 
-  - [Linux](https://download.java.net/java/GA/javafx21.0.1/e5ab43c6aed54893b0840c1f2dcfca4d/GPL/openjfx-21.0.1_linux-x64_bin-sdk.tar.gz)
-  - [macOS](https://download.java.net/java/GA/javafx21.0.1/e5ab43c6aed54893b0840c1f2dcfca4d/GPL/openjfx-21.0.1_macos-x64_bin-sdk.tar.gz)
-  - [Windows](https://download.java.net/java/GA/javafx21.0.1/e5ab43c6aed54893b0840c1f2dcfca4d/GPL/openjfx-21.0.1_windows-x64_bin-sdk.zip)
-
-## Running WaveSignal
-
-Use the following commands to run WaveSignal on different platforms:
-
-### Windows
-
-```bash
-start runtime\\win\\jdk\\bin\\javaw.exe --module-path runtime\\win\\jfx\\lib --add-modules javafx.controls,javafx.fxml,javafx.web -jar runtime\\bin\\wave
-```
-
-### Linux
-
-```bash
-runtime/linux/jdk/bin/java --module-path runtime/linux/jfx/lib --add-modules javafx.controls,javafx.fxml,javafx.web -jar runtime/bin/wave
-```
-
-### macOS
-
-```bash
-runtime/mac/jdk/bin/java --module-path runtime/mac/jfx/lib/ --add-modules javafx.controls,javafx.fxml,javafx.web -jar runtime/bin/wave
-```
-
-Enjoy using WaveSignal for your technical analysis and trading needs!
-
----
-
-*Note: Please make sure you have the necessary Java and JavaFX installations before running WaveSignal.*
+WaveSignal is your trusted companion on your trading journey, providing the tools you need to excel in the financial markets. Whether you're a seasoned trader or just starting, this software is designed to enhance your trading skills and decision-making processes.
