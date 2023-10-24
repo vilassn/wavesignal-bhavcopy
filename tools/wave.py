@@ -48,6 +48,7 @@ def download_and_extract(url, destination_folder):
     for file_url in url:
         # Define a local file name for the downloaded file
         local_file = os.path.join(destination_folder, os.path.basename(file_url))
+        print(f"local filename: {local_file}")
 
         # Send an HTTP GET request to the URL and save the content to a local file
         response = requests.get(file_url)
@@ -74,7 +75,7 @@ def main():
     if os_name in os_urls:
         print(f"Downloading java runtime for {os_name}.")
         download_urls = os_urls[os_name]
-        destination_folder = 'java_runtime'
+        destination_folder = 'runtime'
         os.makedirs(os.path.join(destination_folder, 'jdk'), exist_ok=True)
         os.makedirs(os.path.join(destination_folder, 'jfx'), exist_ok=True)
         download_and_extract(download_urls, destination_folder)

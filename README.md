@@ -2,6 +2,8 @@
 
 **Welcome to WaveSignal** – your comprehensive technical analysis software developed by νίĻάş ήίήάώέ to empower traders and investors with valuable tools and insights for the stock and futures markets.
 
+![WaveSignal](screenshots/Screenshot_2020-03-11_12-01-39.png)
+
 ## Features of WaveSignal
 
 **1. Historical Data Analysis**
