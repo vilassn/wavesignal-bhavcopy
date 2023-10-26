@@ -28,26 +28,26 @@ os_urls = {
 # Define a dictionary to map OS names to commands
 os_commands = {
     "Linux": [
-        "runtime/linux/jdk/bin/java",
-        "--module-path", "runtime/linux/jfx/lib",
+        "runtime/jdk-21.0.1/bin/java",
+        "--module-path", "runtime/javafx-sdk-21.0.1/lib",
         "--add-modules", "javafx.controls,javafx.fxml,javafx.web",
-        "-jar", "runtime/bin/wave"
+        "-jar", "wave.jar"
     ],
     "Windows": [
-        "start", "runtime\\win\\jdk\\bin\\javaw.exe",
-        "--module-path", "runtime\\win\\jfx\\lib",
+        "start", "runtime\\jdk-21.0.1\\bin\\javaw.exe",
+        "--module-path", "runtime\\javafx-sdk-21.0.1\\lib",
         "--add-modules", "javafx.controls,javafx.fxml,javafx.web",
-        "-jar", "runtime\\bin\\wave"
+        "-jar", "wave.jar"
     ],
     "Darwin": [
         # Add macOS-specific commands here if needed
     ]
 }
 
-def download_and_extract(url, destination_folder):
+def download_and_extract(url, runtime_dir):
     for file_url in url:
         # Define a local file name for the downloaded file
-        local_file = os.path.join(destination_folder, os.path.basename(file_url))
+        local_file = os.path.join(runtime_dir, os.path.basename(file_url))
         print(f"local filename: {local_file}")
 
         # Send an HTTP GET request to the URL and save the content to a local file
@@ -55,30 +55,31 @@ def download_and_extract(url, destination_folder):
         with open(local_file, 'wb') as file:
             file.write(response.content)
 
-        # Determine the type (jdk or jfx)
-        extract_folder = os.path.join(destination_folder, 'jdk' if 'openjdk' in file_url else 'jfx')
-
         # Extract the contents based on the file extension
         if file_url.endswith('.zip'):
             with zipfile.ZipFile(local_file, 'r') as zip_ref:
-                zip_ref.extractall(extract_folder)
+                zip_ref.extractall(runtime_dir)
         elif file_url.endswith('.tar.gz') or file_url.endswith('.tar'):
             with tarfile.open(local_file, 'r:*') as tar:
-                tar.extractall(extract_folder)
+                tar.extractall(runtime_dir)
 
         # Clean up by deleting the downloaded file
         os.remove(local_file)
 
 def main():
     print(f"This computer is running {os_name}.")
-    # Download java runtime
-    if os_name in os_urls:
-        print(f"Downloading java runtime for {os_name}.")
-        download_urls = os_urls[os_name]
-        destination_folder = 'runtime'
-        os.makedirs(os.path.join(destination_folder, 'jdk'), exist_ok=True)
-        os.makedirs(os.path.join(destination_folder, 'jfx'), exist_ok=True)
-        download_and_extract(download_urls, destination_folder)
+    # Check if runtime already exists
+    runtime_dir = 'runtime'
+    if not os.path.exists(runtime_dir):
+        os.makedirs(runtime_dir, exist_ok=True)
+        
+        # Download java runtime
+        if os_name in os_urls:
+            print(f"Downloading java runtime for {os_name}.")
+            download_urls = os_urls[os_name]
+            download_and_extract(download_urls, runtime_dir)
+    else:
+        print(f"Java runtime already exists")
 
     # Launch wav
     if os_name in os_commands:
