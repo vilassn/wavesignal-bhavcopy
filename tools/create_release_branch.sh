@@ -27,20 +27,8 @@ create_branch() {
 	git checkout -b $1
 	
 	# delete files which are not required for this branch
-	if [[ $1 == "linux" ]]; then
-		git rm -r .gitignore wave.exe wave.sh tools runtime/win* runtime/mac* appdata/datafeed/historical*
-	fi
-		
-	if [[ $1 == "win" ]]; then
-		git rm -r .gitignore wave.sh wave.run tools runtime/mac* runtime/linux* appdata/datafeed/historical*
-	fi
-		
-	if [[ $1 == "mac" ]]; then
-		git rm -r .gitignore wave.run wave.exe tools runtime/linux* runtime/win* appdata/datafeed/historical*
-	fi
-		
-	if [[ $1 == "data" ]]; then
-		git rm -r .gitignore wave.run wave.exe wave.sh tools runtime* appdata/datafeed/historical*
+	if [[ $1 == "release" ]]; then
+		git rm -r appdata/datafeed/historical*
 	fi
 		
 	# commit changes
@@ -55,10 +43,7 @@ create_branch() {
 
 # exeucte functions
 init_setup
-create_branch linux
-create_branch win
-create_branch mac
-create_branch data
+create_branch release
 
 # checkout master branch back
 git checkout master
