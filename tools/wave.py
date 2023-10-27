@@ -31,16 +31,19 @@ os_commands = {
         "runtime/jdk-21.0.1/bin/java",
         "--module-path", "runtime/javafx-sdk-21.0.1/lib",
         "--add-modules", "javafx.controls,javafx.fxml,javafx.web",
-        "-jar", "wave.jar"
+        "-jar", "libs/wave.jar"
     ],
     "Windows": [
         "start", "runtime\\jdk-21.0.1\\bin\\javaw.exe",
         "--module-path", "runtime\\javafx-sdk-21.0.1\\lib",
         "--add-modules", "javafx.controls,javafx.fxml,javafx.web",
-        "-jar", "wave.jar"
+        "-jar", "libs\\wave.jar"
     ],
     "Darwin": [
-        # Add macOS-specific commands here if needed
+        "runtime/jdk-21.0.1/bin/java",
+        "--module-path", "runtime/javafx-sdk-21.0.1/lib",
+        "--add-modules", "javafx.controls,javafx.fxml,javafx.web",
+        "-jar", "libs/wave.jar"
     ]
 }
 

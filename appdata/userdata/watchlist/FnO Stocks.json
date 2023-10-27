@@ -2,55 +2,55 @@
   {
     "name": "AARTIIND",
     "selected": true,
-    "price": 442.55,
-    "change": -2.07,
+    "price": 453.29998779296875,
+    "change": 2.43,
     "oichange": 0.0,
-    "changePrev": -0.95,
+    "changePrev": -2.07,
     "oichangePrev": 0.0
   },
   {
     "name": "ABB",
     "selected": true,
-    "price": 3958.25,
-    "change": 0.71,
+    "price": 4008.5,
+    "change": 1.27,
     "oichange": 0.0,
-    "changePrev": -0.31,
+    "changePrev": 0.71,
     "oichangePrev": 0.0
   },
   {
     "name": "ABBOTINDIA",
     "selected": true,
-    "price": 22232.4,
-    "change": -1.24,
+    "price": 22670.69921875,
+    "change": 1.97,
     "oichange": 0.0,
-    "changePrev": -0.9,
+    "changePrev": -1.24,
     "oichangePrev": 0.0
   },
   {
     "name": "ABCAPITAL",
     "selected": true,
-    "price": 170.3,
-    "change": -1.33,
+    "price": 172.25,
+    "change": 1.15,
     "oichange": 0.0,
-    "changePrev": 0.03,
+    "changePrev": -1.33,
     "oichangePrev": 0.0
   },
   {
     "name": "ABFRL",
     "selected": true,
-    "price": 213.65,
-    "change": 0.78,
+    "price": 216.0,
+    "change": 1.1,
     "oichange": 0.0,
-    "changePrev": -1.03,
+    "changePrev": 0.78,
     "oichangePrev": 0.0
   },
   {
     "name": "ACC",
     "selected": true,
-    "price": 1899.85,
-    "change": 0.46,
+    "price": 1878.0,
+    "change": -1.15,
     "oichange": 0.0,
-    "changePrev": -0.33,
+    "changePrev": 0.46,
     "oichangePrev": 0.0
   },
   {

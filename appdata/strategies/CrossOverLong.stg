@@ -1,10 +1,10 @@
 {
   "name": "CrossOverLong",
-  "selected": false,
+  "selected": true,
   "indicators": {
     "close": "close",
-    "sma10": "sma,10",
-    "sma20": "sma,20",
+    "sma10": "sma,50",
+    "sma20": "sma,200",
     "macd": "macd,12,26,9"
   },
   "conditions": {
@@ -15,10 +15,11 @@
     "cond5": "close crossedDown sma10",
     "cond6": "close crossedUp sma10",
     "cond7": "sma10 crossedDown sma20",
-    "cond8": "sma10 crossedUp sma20"
+    "cond8": "sma10 crossedUp sma20",
+    "cond9": "close crossedUp sma20"
   },
   "rules": {
-    "entry": "cond4 and cond8",
+    "entry": "cond6 or cond9",
     "exit": "cond1 or cond2"
   }
 }

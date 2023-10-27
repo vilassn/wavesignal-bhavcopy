@@ -18,10 +18,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1625220000,
-    "exitDate": 1698314400,
-    "profit": 12.72,
+    "exitDate": 1698397480,
+    "profit": 11.84,
     "entryPrice": 227.95,
-    "exitPrice": 198.95
+    "exitPrice": 200.95
   },
   {
     "symbol": "BRITANNIA",
@@ -30,10 +30,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1690279200,
-    "exitDate": 1698314400,
-    "profit": 7.73,
+    "exitDate": 1698397480,
+    "profit": 7.45,
     "entryPrice": 4885.6,
-    "exitPrice": 4507.8
+    "exitPrice": 4521.4
   },
   {
     "symbol": "ITC",
@@ -42,9 +42,9 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1690279200,
-    "exitDate": 1698314400,
-    "profit": 6.05,
+    "exitDate": 1698397480,
+    "profit": 6.2,
     "entryPrice": 462.3,
-    "exitPrice": 434.35
+    "exitPrice": 433.65
   }
 ]

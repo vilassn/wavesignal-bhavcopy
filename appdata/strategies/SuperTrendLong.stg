@@ -1,6 +1,6 @@
 {
   "name": "SuperTrendLong",
-  "selected": true,
+  "selected": false,
   "indicators": {
     "close": "close",
     "macd": "macd,12,26,9",
