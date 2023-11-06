@@ -40,10 +40,12 @@ os_commands = {
         "-jar", "libs\\wave.jar"
     ],
     "Darwin": [
-        "runtime/jdk-21.0.1/bin/java",
-        "--module-path", "runtime/javafx-sdk-21.0.1/lib",
-        "--add-modules", "javafx.controls,javafx.fxml,javafx.web",
-        "-jar", "libs/wave.jar"
+        "runtime/jdk-21.0.1.jdk/Contents/Home/bin/java --module-path runtime/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.web -jar libs/wave.jar"
+
+       # "runtime/jdk-21.0.1.jdk/Contents/Home/bin/java",
+       # "--module-path", "runtime/javafx-sdk-21.0.1/lib",
+       # "--add-modules", "javafx.controls,javafx.fxml,javafx.web",
+       # "-jar", "libs/wave.jar"
     ]
 }
 
@@ -87,6 +89,8 @@ def main():
     # Launch wav
     if os_name in os_commands:
         print(f"Launching wavesignal on {os_name}.")
+        command = os_commands[os_name]
+        print(f"command: {command}")
         # Run the corresponding command
         subprocess.Popen(os_commands[os_name], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, shell=True)
         # Add a sleep of 3 seconds

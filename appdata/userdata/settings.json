@@ -337,12 +337,12 @@
   "mSeriesLoaders": [
     {
       "name": "NSE",
-      "selected": false,
+      "selected": true,
       "loaderType": "LOADER_NSE"
     },
     {
       "name": "Yahoo",
-      "selected": true,
+      "selected": false,
       "loaderType": "LOADER_YAHOO"
     },
     {
@@ -446,7 +446,7 @@
     },
     "ST_LOADBARS": {
       "name": "LoadBars",
-      "value": 1000,
+      "value": 450,
       "selected": false
     },
     "ST_SCANBARS": {

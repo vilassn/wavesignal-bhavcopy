@@ -1,6 +1,6 @@
 {
   "name": "CrossOverLong",
-  "selected": true,
+  "selected": false,
   "indicators": {
     "close": "close",
     "sma10": "sma,50",
