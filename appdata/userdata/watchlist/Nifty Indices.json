@@ -9,7 +9,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty Bank",
+    "name": "Nifty Next 50",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -18,7 +18,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty Next 50",
+    "name": "Nifty Bank",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -72,7 +72,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty Private Bank",
+    "name": "Nifty100 Equal Weight",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -81,7 +81,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty100 Equal Weight",
+    "name": "Nifty Private Bank",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -99,7 +99,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty Financial Services",
+    "name": "Nifty 100",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -117,7 +117,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty 100",
+    "name": "Nifty Financial Services",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -153,7 +153,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty Pharma",
+    "name": "Nifty Midcap 150",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -162,7 +162,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty Midcap 150",
+    "name": "Nifty Pharma",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -189,7 +189,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty LargeMidcap 250",
+    "name": "Nifty Smallcap 250",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -198,7 +198,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty Smallcap 250",
+    "name": "Nifty LargeMidcap 250",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -234,15 +234,6 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty Growth Sectors 15",
-    "selected": true,
-    "price": 0.0,
-    "change": 0.0,
-    "oichange": 0.0,
-    "changePrev": 0.0,
-    "oichangePrev": 0.0
-  },
-  {
     "name": "Nifty India Manufacturing Index",
     "selected": true,
     "price": 0.0,
@@ -253,6 +244,15 @@
   },
   {
     "name": "Nifty Midcap Liquid 15",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
+    "name": "Nifty Growth Sectors 15",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -288,6 +288,15 @@
     "oichangePrev": 0.0
   },
   {
+    "name": "Nifty PSE",
+    "selected": true,
+    "price": 0.0,
+    "change": 0.0,
+    "oichange": 0.0,
+    "changePrev": 0.0,
+    "oichangePrev": 0.0
+  },
+  {
     "name": "Nifty Commodities",
     "selected": true,
     "price": 0.0,
@@ -306,7 +315,7 @@
     "oichangePrev": 0.0
   },
   {
-    "name": "Nifty PSE",
+    "name": "Nifty Smallcap 50",
     "selected": true,
     "price": 0.0,
     "change": 0.0,
@@ -316,15 +325,6 @@
   },
   {
     "name": "Nifty100 Liquid 15",
-    "selected": true,
-    "price": 0.0,
-    "change": 0.0,
-    "oichange": 0.0,
-    "changePrev": 0.0,
-    "oichangePrev": 0.0
-  },
-  {
-    "name": "Nifty Smallcap 50",
     "selected": true,
     "price": 0.0,
     "change": 0.0,

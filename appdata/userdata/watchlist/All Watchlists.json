@@ -24,11 +24,11 @@
     "selected": false
   },
   {
-    "name": "Nifty Bank",
+    "name": "Nifty Next 50",
     "selected": false
   },
   {
-    "name": "Nifty Next 50",
+    "name": "Nifty Bank",
     "selected": false
   },
   {
@@ -52,11 +52,11 @@
     "selected": false
   },
   {
-    "name": "Nifty Private Bank",
+    "name": "Nifty100 Equal Weight",
     "selected": false
   },
   {
-    "name": "Nifty100 Equal Weight",
+    "name": "Nifty Private Bank",
     "selected": false
   },
   {
@@ -64,7 +64,7 @@
     "selected": false
   },
   {
-    "name": "Nifty Financial Services",
+    "name": "Nifty 100",
     "selected": false
   },
   {
@@ -72,7 +72,7 @@
     "selected": false
   },
   {
-    "name": "Nifty 100",
+    "name": "Nifty Financial Services",
     "selected": false
   },
   {
@@ -88,11 +88,11 @@
     "selected": false
   },
   {
-    "name": "Nifty Pharma",
+    "name": "Nifty Midcap 150",
     "selected": false
   },
   {
-    "name": "Nifty Midcap 150",
+    "name": "Nifty Pharma",
     "selected": false
   },
   {
@@ -104,11 +104,11 @@
     "selected": false
   },
   {
-    "name": "Nifty LargeMidcap 250",
+    "name": "Nifty Smallcap 250",
     "selected": false
   },
   {
-    "name": "Nifty Smallcap 250",
+    "name": "Nifty LargeMidcap 250",
     "selected": false
   },
   {
@@ -124,15 +124,15 @@
     "selected": false
   },
   {
-    "name": "Nifty Growth Sectors 15",
-    "selected": false
-  },
-  {
     "name": "Nifty India Manufacturing Index",
     "selected": false
   },
   {
     "name": "Nifty Midcap Liquid 15",
+    "selected": false
+  },
+  {
+    "name": "Nifty Growth Sectors 15",
     "selected": false
   },
   {
@@ -148,6 +148,10 @@
     "selected": false
   },
   {
+    "name": "Nifty PSE",
+    "selected": false
+  },
+  {
     "name": "Nifty Commodities",
     "selected": false
   },
@@ -156,15 +160,11 @@
     "selected": false
   },
   {
-    "name": "Nifty PSE",
+    "name": "Nifty Smallcap 50",
     "selected": false
   },
   {
     "name": "Nifty100 Liquid 15",
-    "selected": false
-  },
-  {
-    "name": "Nifty Smallcap 50",
     "selected": false
   },
   {

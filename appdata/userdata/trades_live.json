@@ -1,50 +1,98 @@
 [
   {
-    "symbol": "ASTRAL",
-    "interval": "1d",
-    "strategy": "ChartShortStrategy",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1688637600,
-    "exitDate": 1689069600,
-    "profit": 3.41,
-    "entryPrice": 1842.05,
-    "exitPrice": 1779.25
-  },
-  {
-    "symbol": "POWERGRID",
-    "interval": "1d",
-    "strategy": "ChartShortStrategy",
-    "entryType": "SELL",
-    "exitType": "OPEN",
-    "entryDate": 1625220000,
-    "exitDate": 1699005600,
-    "profit": 10.33,
-    "entryPrice": 227.95,
-    "exitPrice": 204.4
-  },
-  {
-    "symbol": "BRITANNIA",
-    "interval": "1d",
-    "strategy": "ChartShortStrategy",
-    "entryType": "SELL",
-    "exitType": "OPEN",
-    "entryDate": 1690279200,
-    "exitDate": 1699005600,
-    "profit": 7.08,
-    "entryPrice": 4885.6,
-    "exitPrice": 4539.55
-  },
-  {
     "symbol": "ITC",
     "interval": "1d",
     "strategy": "ChartShortStrategy",
     "entryType": "SELL",
-    "exitType": "OPEN",
+    "exitType": "CLOSED",
     "entryDate": 1690279200,
-    "exitDate": 1699005600,
-    "profit": 6.28,
+    "exitDate": 1701770400,
+    "profit": 2.28,
     "entryPrice": 462.3,
-    "exitPrice": 433.25
+    "exitPrice": 451.75
+  },
+  {
+    "symbol": "IDFCFIRSTB",
+    "interval": "1d",
+    "strategy": "ChartLongStrategy",
+    "entryType": "BUY",
+    "exitType": "OPEN",
+    "entryDate": 1701770400,
+    "exitDate": 1703671200,
+    "profit": -0.45,
+    "entryPrice": 89.25,
+    "exitPrice": 88.85
+  },
+  {
+    "symbol": "BAJAJ-AUTO",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1701941100,
+    "exitDate": 1703671200,
+    "profit": -10.35,
+    "entryPrice": 6080.55,
+    "exitPrice": 6709.65
+  },
+  {
+    "symbol": "LALPATHLAB",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1702029000,
+    "exitDate": 1703671200,
+    "profit": 2.61,
+    "entryPrice": 2640.55,
+    "exitPrice": 2571.65
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1702029600,
+    "exitDate": 1703671200,
+    "profit": 0.89,
+    "entryPrice": 163.2,
+    "exitPrice": 161.75
+  },
+  {
+    "symbol": "RBLBANK",
+    "interval": "1d",
+    "strategy": "ChartLongStrategy",
+    "entryType": "BUY",
+    "exitType": "OPEN",
+    "entryDate": 1702029600,
+    "exitDate": 1703671200,
+    "profit": -1.85,
+    "entryPrice": 267.7,
+    "exitPrice": 262.75
+  },
+  {
+    "symbol": "ADANIENT",
+    "interval": "1d",
+    "strategy": "ChartLongStrategy",
+    "entryType": "BUY",
+    "exitType": "OPEN",
+    "entryDate": 1702029600,
+    "exitDate": 1703671200,
+    "profit": 0.75,
+    "entryPrice": 2822.15,
+    "exitPrice": 2843.35
+  },
+  {
+    "symbol": "PIIND",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1702461600,
+    "exitDate": 1703671200,
+    "profit": -1.05,
+    "entryPrice": 3426.85,
+    "exitPrice": 3462.8
   }
 ]
