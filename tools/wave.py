@@ -27,25 +27,17 @@ os_urls = {
 
 # Define a dictionary to map OS names to commands
 os_commands = {
-    "Linux": [
-        "runtime/jdk-21.0.1/bin/java",
-        "--module-path", "runtime/javafx-sdk-21.0.1/lib",
-        "--add-modules", "javafx.controls,javafx.fxml,javafx.web",
-        "-jar", "libs/wave.jar"
-    ],
     "Windows": [
         "start", "runtime\\jdk-21.0.1\\bin\\javaw.exe",
         "--module-path", "runtime\\javafx-sdk-21.0.1\\lib",
         "--add-modules", "javafx.controls,javafx.fxml,javafx.web",
         "-jar", "libs\\wave.jar"
     ],
+    "Linux": [
+        "runtime/jdk-21.0.1/bin/java --module-path runtime/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.web -jar libs/wave.jar"
+    ],
     "Darwin": [
         "runtime/jdk-21.0.1.jdk/Contents/Home/bin/java --module-path runtime/javafx-sdk-21.0.1/lib --add-modules javafx.controls,javafx.fxml,javafx.web -jar libs/wave.jar"
-
-       # "runtime/jdk-21.0.1.jdk/Contents/Home/bin/java",
-       # "--module-path", "runtime/javafx-sdk-21.0.1/lib",
-       # "--add-modules", "javafx.controls,javafx.fxml,javafx.web",
-       # "-jar", "libs/wave.jar"
     ]
 }
 

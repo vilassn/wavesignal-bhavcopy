@@ -18,10 +18,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1701770400,
-    "exitDate": 1703750400,
-    "profit": -1.57,
+    "exitDate": 1703757600,
+    "profit": -0.62,
     "entryPrice": 89.25,
-    "exitPrice": 87.85
+    "exitPrice": 88.7
   },
   {
     "symbol": "BAJAJ-AUTO",
@@ -30,10 +30,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1701941100,
-    "exitDate": 1703750400,
-    "profit": -10.13,
+    "exitDate": 1703757600,
+    "profit": -10.24,
     "entryPrice": 6080.55,
-    "exitPrice": 6696.8
+    "exitPrice": 6703.3
   },
   {
     "symbol": "LALPATHLAB",
@@ -42,10 +42,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1702029000,
-    "exitDate": 1703750460,
-    "profit": 3.24,
+    "exitDate": 1703757600,
+    "profit": 2.9,
     "entryPrice": 2640.55,
-    "exitPrice": 2555.0
+    "exitPrice": 2563.9
   },
   {
     "symbol": "ABCAPITAL",
@@ -54,10 +54,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1702029600,
-    "exitDate": 1703750400,
-    "profit": 0.67,
+    "exitDate": 1703757600,
+    "profit": 0.95,
     "entryPrice": 163.2,
-    "exitPrice": 162.1
+    "exitPrice": 161.65
   },
   {
     "symbol": "RBLBANK",
@@ -66,10 +66,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1702029600,
-    "exitDate": 1703750400,
-    "profit": 0.11,
+    "exitDate": 1703757600,
+    "profit": 0.45,
     "entryPrice": 267.7,
-    "exitPrice": 268.0
+    "exitPrice": 268.9
   },
   {
     "symbol": "ADANIENT",
@@ -78,10 +78,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1702029600,
-    "exitDate": 1703750460,
-    "profit": 0.77,
+    "exitDate": 1703757600,
+    "profit": -0.43,
     "entryPrice": 2822.15,
-    "exitPrice": 2844.0
+    "exitPrice": 2809.9
   },
   {
     "symbol": "PIIND",
@@ -90,9 +90,9 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1702461600,
-    "exitDate": 1703750400,
-    "profit": -0.79,
+    "exitDate": 1703757600,
+    "profit": -1.69,
     "entryPrice": 3426.85,
-    "exitPrice": 3454.0
+    "exitPrice": 3484.8
   }
 ]
