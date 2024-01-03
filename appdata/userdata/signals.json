@@ -1,41 +1,5 @@
 [
   {
-    "symbol": "BAJAJ-AUTO",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1691402400,
-    "exitDate": 1694512800,
-    "profit": -3.22,
-    "entryPrice": 4670.1,
-    "exitPrice": 4820.6
-  },
-  {
-    "symbol": "BHEL",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1691402400,
-    "exitDate": 1691575200,
-    "profit": -4.81,
-    "entryPrice": 96.6,
-    "exitPrice": 101.25
-  },
-  {
-    "symbol": "TATAMOTORS",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1691402400,
-    "exitDate": 1694426400,
-    "profit": -4.16,
-    "entryPrice": 609.5,
-    "exitPrice": 634.85
-  },
-  {
     "symbol": "BANDHANBNK",
     "interval": "1d",
     "strategy": "SuperTrendLong",
@@ -1818,10 +1782,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1699264800,
-    "exitDate": 1704189600,
-    "profit": 3.51,
+    "exitDate": 1704276000,
+    "profit": 2.44,
     "entryPrice": 537.95,
-    "exitPrice": 556.85
+    "exitPrice": 551.1
   },
   {
     "symbol": "DEEPAKNTR",
@@ -1974,10 +1938,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1699437600,
-    "exitDate": 1704189600,
-    "profit": 3.09,
+    "exitDate": 1704276000,
+    "profit": 2.03,
     "entryPrice": 586.25,
-    "exitPrice": 604.35
+    "exitPrice": 598.15
   },
   {
     "symbol": "TATAPOWER",
@@ -2490,10 +2454,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1702375200,
-    "exitDate": 1704189600,
-    "profit": -0.06,
+    "exitDate": 1704276000,
+    "profit": 0.58,
     "entryPrice": 3484.0,
-    "exitPrice": 3486.05
+    "exitPrice": 3463.85
   },
   {
     "symbol": "MFSL",
@@ -2586,10 +2550,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1703066400,
-    "exitDate": 1704189600,
-    "profit": -0.22,
+    "exitDate": 1704276000,
+    "profit": 1.07,
     "entryPrice": 644.1,
-    "exitPrice": 645.5
+    "exitPrice": 637.2
   },
   {
     "symbol": "IPCALAB",
@@ -2634,10 +2598,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1703152800,
-    "exitDate": 1704189600,
-    "profit": -1.44,
+    "exitDate": 1704276000,
+    "profit": -2.62,
     "entryPrice": 149.05,
-    "exitPrice": 151.2
+    "exitPrice": 152.95
   },
   {
     "symbol": "DABUR",
@@ -2680,11 +2644,23 @@
     "interval": "1d",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
-    "exitType": "OPEN",
+    "exitType": "CLOSED",
     "entryDate": 1703584800,
-    "exitDate": 1704189600,
-    "profit": -0.64,
+    "exitDate": 1704276000,
+    "profit": -3.41,
     "entryPrice": 1657.25,
-    "exitPrice": 1667.8
+    "exitPrice": 1713.8
+  },
+  {
+    "symbol": "ABBOTINDIA",
+    "interval": "1d",
+    "strategy": "SuperTrendLong",
+    "entryType": "BUY",
+    "exitType": "OPEN",
+    "entryDate": 1704276000,
+    "exitDate": 1704276000,
+    "profit": 0.0,
+    "entryPrice": 23606.6,
+    "exitPrice": 23606.6
   }
 ]

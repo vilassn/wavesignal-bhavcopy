@@ -18,7 +18,7 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1701770400,
-    "exitDate": 1704189600,
+    "exitDate": 1704276000,
     "profit": -3.53,
     "entryPrice": 89.25,
     "exitPrice": 86.1
@@ -30,10 +30,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1701941100,
-    "exitDate": 1704189600,
-    "profit": -9.61,
+    "exitDate": 1704276000,
+    "profit": -14.9,
     "entryPrice": 6080.55,
-    "exitPrice": 6665.05
+    "exitPrice": 6986.5
   },
   {
     "symbol": "LALPATHLAB",
@@ -42,10 +42,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1702029000,
-    "exitDate": 1704189600,
-    "profit": -0.16,
+    "exitDate": 1704276000,
+    "profit": 0.09,
     "entryPrice": 2640.55,
-    "exitPrice": 2644.8
+    "exitPrice": 2638.05
   },
   {
     "symbol": "ABCAPITAL",
@@ -54,10 +54,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1702029600,
-    "exitDate": 1704189600,
-    "profit": -4.53,
+    "exitDate": 1704276000,
+    "profit": -4.41,
     "entryPrice": 163.2,
-    "exitPrice": 170.6
+    "exitPrice": 170.4
   },
   {
     "symbol": "RBLBANK",
@@ -66,10 +66,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1702029600,
-    "exitDate": 1704189600,
-    "profit": 4.93,
+    "exitDate": 1704276000,
+    "profit": 6.43,
     "entryPrice": 267.7,
-    "exitPrice": 280.9
+    "exitPrice": 284.9
   },
   {
     "symbol": "ADANIENT",
@@ -78,10 +78,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1702029600,
-    "exitDate": 1704189600,
-    "profit": 3.91,
+    "exitDate": 1704276000,
+    "profit": 6.41,
     "entryPrice": 2822.15,
-    "exitPrice": 2932.4
+    "exitPrice": 3003.0
   },
   {
     "symbol": "PIIND",
@@ -90,9 +90,9 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1702461600,
-    "exitDate": 1704189600,
-    "profit": -1.73,
+    "exitDate": 1704276000,
+    "profit": -1.08,
     "entryPrice": 3426.85,
-    "exitPrice": 3486.05
+    "exitPrice": 3463.85
   }
 ]
