@@ -1,53 +1,5 @@
 [
   {
-    "symbol": "BANDHANBNK",
-    "interval": "1d",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1691488800,
-    "exitDate": 1692180000,
-    "profit": -3.85,
-    "entryPrice": 233.6,
-    "exitPrice": 224.6
-  },
-  {
-    "symbol": "DEEPAKNTR",
-    "interval": "1d",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1691488800,
-    "exitDate": 1692266400,
-    "profit": -4.43,
-    "entryPrice": 2091.95,
-    "exitPrice": 1999.25
-  },
-  {
-    "symbol": "POWERGRID",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1691488800,
-    "exitDate": 1692784800,
-    "profit": -3.35,
-    "entryPrice": 241.5,
-    "exitPrice": 249.6
-  },
-  {
-    "symbol": "IEX",
-    "interval": "1d",
-    "strategy": "SuperTrendLong",
-    "entryType": "BUY",
-    "exitType": "CLOSED",
-    "entryDate": 1691575200,
-    "exitDate": 1692007200,
-    "profit": -3.37,
-    "entryPrice": 130.6,
-    "exitPrice": 126.2
-  },
-  {
     "symbol": "BATAINDIA",
     "interval": "1d",
     "strategy": "SuperTrendShort",
@@ -1780,12 +1732,12 @@
     "interval": "1d",
     "strategy": "SuperTrendLong",
     "entryType": "BUY",
-    "exitType": "OPEN",
+    "exitType": "CLOSED",
     "entryDate": 1699264800,
-    "exitDate": 1704276000,
-    "profit": 2.44,
+    "exitDate": 1704362400,
+    "profit": 5.26,
     "entryPrice": 537.95,
-    "exitPrice": 551.1
+    "exitPrice": 566.25
   },
   {
     "symbol": "DEEPAKNTR",
@@ -1938,10 +1890,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1699437600,
-    "exitDate": 1704276000,
-    "profit": 2.03,
+    "exitDate": 1704448800,
+    "profit": 1.72,
     "entryPrice": 586.25,
-    "exitPrice": 598.15
+    "exitPrice": 596.35
   },
   {
     "symbol": "TATAPOWER",
@@ -2454,10 +2406,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1702375200,
-    "exitDate": 1704276000,
-    "profit": 0.58,
+    "exitDate": 1704448800,
+    "profit": 0.67,
     "entryPrice": 3484.0,
-    "exitPrice": 3463.85
+    "exitPrice": 3460.5
   },
   {
     "symbol": "MFSL",
@@ -2550,10 +2502,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1703066400,
-    "exitDate": 1704276000,
-    "profit": 1.07,
+    "exitDate": 1704448800,
+    "profit": -0.41,
     "entryPrice": 644.1,
-    "exitPrice": 637.2
+    "exitPrice": 646.75
   },
   {
     "symbol": "IPCALAB",
@@ -2596,12 +2548,12 @@
     "interval": "1d",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
-    "exitType": "OPEN",
+    "exitType": "CLOSED",
     "entryDate": 1703152800,
-    "exitDate": 1704276000,
-    "profit": -2.62,
+    "exitDate": 1704362400,
+    "profit": -3.22,
     "entryPrice": 149.05,
-    "exitPrice": 152.95
+    "exitPrice": 153.85
   },
   {
     "symbol": "DABUR",
@@ -2658,9 +2610,45 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1704276000,
-    "exitDate": 1704276000,
-    "profit": 0.0,
+    "exitDate": 1704448800,
+    "profit": 1.18,
     "entryPrice": 23606.6,
-    "exitPrice": 23606.6
+    "exitPrice": 23884.6
+  },
+  {
+    "symbol": "ABCAPITAL",
+    "interval": "1d",
+    "strategy": "SuperTrendLong",
+    "entryType": "BUY",
+    "exitType": "OPEN",
+    "entryDate": 1704362400,
+    "exitDate": 1704448800,
+    "profit": 0.57,
+    "entryPrice": 174.1,
+    "exitPrice": 175.1
+  },
+  {
+    "symbol": "LTIM",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704362400,
+    "exitDate": 1704448800,
+    "profit": -1.39,
+    "entryPrice": 5866.4,
+    "exitPrice": 5947.65
+  },
+  {
+    "symbol": "SHREECEM",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704448800,
+    "exitDate": 1704448800,
+    "profit": 0.0,
+    "entryPrice": 27023.3,
+    "exitPrice": 27023.3
   }
 ]
