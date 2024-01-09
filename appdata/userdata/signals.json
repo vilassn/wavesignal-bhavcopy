@@ -1,77 +1,5 @@
 [
   {
-    "symbol": "BATAINDIA",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1691661600,
-    "exitDate": 1692266400,
-    "profit": -5.33,
-    "entryPrice": 1645.9,
-    "exitPrice": 1733.55
-  },
-  {
-    "symbol": "GRANULES",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1691661600,
-    "exitDate": 1693908000,
-    "profit": -3.2,
-    "entryPrice": 301.9,
-    "exitPrice": 311.55
-  },
-  {
-    "symbol": "ABCAPITAL",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1691748000,
-    "exitDate": 1693821600,
-    "profit": -3.73,
-    "entryPrice": 183.55,
-    "exitPrice": 190.4
-  },
-  {
-    "symbol": "ALKEM",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1691748000,
-    "exitDate": 1693476000,
-    "profit": 4.69,
-    "entryPrice": 3822.1,
-    "exitPrice": 3642.85
-  },
-  {
-    "symbol": "APOLLOTYRE",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1691748000,
-    "exitDate": 1694772000,
-    "profit": 4.91,
-    "entryPrice": 395.85,
-    "exitPrice": 376.4
-  },
-  {
-    "symbol": "SIEMENS",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1691748000,
-    "exitDate": 1692871200,
-    "profit": -4.13,
-    "entryPrice": 3652.75,
-    "exitPrice": 3803.6
-  },
-  {
     "symbol": "MUTHOOTFIN",
     "interval": "1d",
     "strategy": "SuperTrendShort",
@@ -478,18 +406,6 @@
     "profit": -4.29,
     "entryPrice": 134.15,
     "exitPrice": 139.9
-  },
-  {
-    "symbol": "INTELLECT",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1694512800,
-    "exitDate": 1694772000,
-    "profit": -7.02,
-    "entryPrice": 670.35,
-    "exitPrice": 717.4
   },
   {
     "symbol": "MANAPPURAM",
@@ -1890,10 +1806,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1699437600,
-    "exitDate": 1704448800,
-    "profit": 1.72,
+    "exitDate": 1704793260,
+    "profit": 0.47,
     "entryPrice": 586.25,
-    "exitPrice": 596.35
+    "exitPrice": 589.0
   },
   {
     "symbol": "TATAPOWER",
@@ -2406,10 +2322,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1702375200,
-    "exitDate": 1704448800,
-    "profit": 0.67,
+    "exitDate": 1704793320,
+    "profit": 1.23,
     "entryPrice": 3484.0,
-    "exitPrice": 3460.5
+    "exitPrice": 3441.1
   },
   {
     "symbol": "MFSL",
@@ -2502,10 +2418,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1703066400,
-    "exitDate": 1704448800,
-    "profit": -0.41,
+    "exitDate": 1704793320,
+    "profit": 0.47,
     "entryPrice": 644.1,
-    "exitPrice": 646.75
+    "exitPrice": 641.1
   },
   {
     "symbol": "IPCALAB",
@@ -2610,10 +2526,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1704276000,
-    "exitDate": 1704448800,
-    "profit": 1.18,
+    "exitDate": 1704793260,
+    "profit": 2.81,
     "entryPrice": 23606.6,
-    "exitPrice": 23884.6
+    "exitPrice": 24269.95
   },
   {
     "symbol": "ABCAPITAL",
@@ -2622,10 +2538,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1704362400,
-    "exitDate": 1704448800,
-    "profit": 0.57,
+    "exitDate": 1704793260,
+    "profit": 0.66,
     "entryPrice": 174.1,
-    "exitPrice": 175.1
+    "exitPrice": 175.25
   },
   {
     "symbol": "LTIM",
@@ -2634,10 +2550,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704362400,
-    "exitDate": 1704448800,
-    "profit": -1.39,
+    "exitDate": 1704793320,
+    "profit": -0.81,
     "entryPrice": 5866.4,
-    "exitPrice": 5947.65
+    "exitPrice": 5913.8
   },
   {
     "symbol": "SHREECEM",
@@ -2646,9 +2562,105 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704448800,
-    "exitDate": 1704448800,
-    "profit": 0.0,
+    "exitDate": 1704793320,
+    "profit": -1.21,
     "entryPrice": 27023.3,
-    "exitPrice": 27023.3
+    "exitPrice": 27351.0
+  },
+  {
+    "symbol": "JSWSTEEL",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704708000,
+    "exitDate": 1704793320,
+    "profit": -0.07,
+    "entryPrice": 821.95,
+    "exitPrice": 822.5
+  },
+  {
+    "symbol": "JUBLFOOD",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704708000,
+    "exitDate": 1704793320,
+    "profit": 0.96,
+    "entryPrice": 534.35,
+    "exitPrice": 529.2
+  },
+  {
+    "symbol": "NAVINFLUOR",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704708000,
+    "exitDate": 1704793320,
+    "profit": 3.03,
+    "entryPrice": 3609.7,
+    "exitPrice": 3500.5
+  },
+  {
+    "symbol": "COROMANDEL",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704793260,
+    "exitDate": 1704793260,
+    "profit": 0.0,
+    "entryPrice": 1170.25,
+    "exitPrice": 1170.25
+  },
+  {
+    "symbol": "ICICIBANK",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704793320,
+    "exitDate": 1704793320,
+    "profit": 0.0,
+    "entryPrice": 978.6,
+    "exitPrice": 978.6
+  },
+  {
+    "symbol": "PAGEIND",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704793320,
+    "exitDate": 1704793320,
+    "profit": 0.0,
+    "entryPrice": 36511.75,
+    "exitPrice": 36511.75
+  },
+  {
+    "symbol": "SRF",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704793320,
+    "exitDate": 1704793320,
+    "profit": 0.0,
+    "entryPrice": 2316.0,
+    "exitPrice": 2316.0
+  },
+  {
+    "symbol": "ULTRACEMCO",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704793320,
+    "exitDate": 1704793320,
+    "profit": 0.0,
+    "entryPrice": 9913.1,
+    "exitPrice": 9913.1
   }
 ]

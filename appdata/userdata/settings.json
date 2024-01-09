@@ -446,7 +446,7 @@
     },
     "ST_LOADBARS": {
       "name": "LoadBars",
-      "value": 450,
+      "value": 350,
       "selected": false
     },
     "ST_SCANBARS": {

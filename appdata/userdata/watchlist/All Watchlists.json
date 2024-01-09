@@ -84,15 +84,15 @@
     "selected": false
   },
   {
-    "name": "Nifty 100 Low Volatility 30",
-    "selected": false
-  },
-  {
     "name": "Nifty Midcap 150",
     "selected": false
   },
   {
     "name": "Nifty Pharma",
+    "selected": false
+  },
+  {
+    "name": "Nifty 100 Low Volatility 30",
     "selected": false
   },
   {
@@ -136,19 +136,19 @@
     "selected": false
   },
   {
-    "name": "Nifty India Consumption",
-    "selected": false
-  },
-  {
     "name": "Nifty Oil \u0026 Gas",
     "selected": false
   },
   {
-    "name": "Nifty Metal",
+    "name": "Nifty India Consumption",
     "selected": false
   },
   {
     "name": "Nifty PSE",
+    "selected": false
+  },
+  {
+    "name": "Nifty Metal",
     "selected": false
   },
   {
@@ -176,11 +176,11 @@
     "selected": false
   },
   {
-    "name": "Nifty Quality 30",
+    "name": "Nifty CPSE",
     "selected": false
   },
   {
-    "name": "Nifty CPSE",
+    "name": "Nifty Quality 30",
     "selected": false
   },
   {
