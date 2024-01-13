@@ -1,0 +1,38 @@
+[
+  {
+    "symbol": "ASIANPAINT",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1705053600,
+    "exitDate": 1705053600,
+    "profit": 0.0,
+    "entryPrice": 3277.8,
+    "exitPrice": 3277.8
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704964320,
+    "exitDate": 1705053600,
+    "profit": 0.04,
+    "entryPrice": 2544.9,
+    "exitPrice": 2544.0
+  },
+  {
+    "symbol": "DRREDDY",
+    "interval": "1d",
+    "strategy": "ChartShortStrategy",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704964680,
+    "exitDate": 1705053600,
+    "profit": -0.32,
+    "entryPrice": 5670.95,
+    "exitPrice": 5688.85
+  }
+]

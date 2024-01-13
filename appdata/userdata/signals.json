@@ -1,65 +1,5 @@
 [
   {
-    "symbol": "CROMPTON",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1692180000,
-    "exitDate": 1692612000,
-    "profit": -3.24,
-    "entryPrice": 282.7,
-    "exitPrice": 291.85
-  },
-  {
-    "symbol": "NATIONALUM",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1692180000,
-    "exitDate": 1693303200,
-    "profit": -4.04,
-    "entryPrice": 89.15,
-    "exitPrice": 92.75
-  },
-  {
-    "symbol": "TATACHEM",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1692180000,
-    "exitDate": 1693216800,
-    "profit": -4.55,
-    "entryPrice": 990.7,
-    "exitPrice": 1035.75
-  },
-  {
-    "symbol": "TATASTEEL",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1692180000,
-    "exitDate": 1693303200,
-    "profit": -3.1,
-    "entryPrice": 115.95,
-    "exitPrice": 119.55
-  },
-  {
-    "symbol": "JUBLFOOD",
-    "interval": "1d",
-    "strategy": "SuperTrendShort",
-    "entryType": "SELL",
-    "exitType": "CLOSED",
-    "entryDate": 1692266400,
-    "exitDate": 1692784800,
-    "profit": -3.01,
-    "entryPrice": 478.3,
-    "exitPrice": 492.7
-  },
-  {
     "symbol": "GLENMARK",
     "interval": "1d",
     "strategy": "SuperTrendShort",
@@ -1770,10 +1710,10 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1699437600,
-    "exitDate": 1704880620,
-    "profit": 1.1,
+    "exitDate": 1705053600,
+    "profit": 1.63,
     "entryPrice": 586.25,
-    "exitPrice": 592.7
+    "exitPrice": 595.8
   },
   {
     "symbol": "TATAPOWER",
@@ -2286,10 +2226,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1702375200,
-    "exitDate": 1704880560,
-    "profit": 0.89,
+    "exitDate": 1705053600,
+    "profit": 0.94,
     "entryPrice": 3484.0,
-    "exitPrice": 3452.85
+    "exitPrice": 3451.3
   },
   {
     "symbol": "MFSL",
@@ -2382,10 +2322,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1703066400,
-    "exitDate": 1704880560,
-    "profit": -0.15,
+    "exitDate": 1705053600,
+    "profit": 1.01,
     "entryPrice": 644.1,
-    "exitPrice": 645.05
+    "exitPrice": 637.6
   },
   {
     "symbol": "IPCALAB",
@@ -2490,10 +2430,10 @@
     "entryType": "BUY",
     "exitType": "CLOSED",
     "entryDate": 1704276000,
-    "exitDate": 1704880560,
-    "profit": 4.27,
+    "exitDate": 1704880800,
+    "profit": 4.25,
     "entryPrice": 23606.6,
-    "exitPrice": 24614.4
+    "exitPrice": 24609.25
   },
   {
     "symbol": "ABCAPITAL",
@@ -2502,22 +2442,22 @@
     "entryType": "BUY",
     "exitType": "OPEN",
     "entryDate": 1704362400,
-    "exitDate": 1704880560,
-    "profit": -0.52,
+    "exitDate": 1705053600,
+    "profit": 3.02,
     "entryPrice": 174.1,
-    "exitPrice": 173.2
+    "exitPrice": 179.35
   },
   {
     "symbol": "LTIM",
     "interval": "1d",
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
-    "exitType": "OPEN",
+    "exitType": "CLOSED",
     "entryDate": 1704362400,
-    "exitDate": 1704880560,
-    "profit": -1.41,
+    "exitDate": 1705053600,
+    "profit": -6.32,
     "entryPrice": 5866.4,
-    "exitPrice": 5948.95
+    "exitPrice": 6237.05
   },
   {
     "symbol": "SHREECEM",
@@ -2526,10 +2466,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704448800,
-    "exitDate": 1704880620,
-    "profit": 0.62,
+    "exitDate": 1705053600,
+    "profit": 0.55,
     "entryPrice": 27023.3,
-    "exitPrice": 26856.25
+    "exitPrice": 26874.0
   },
   {
     "symbol": "JSWSTEEL",
@@ -2538,10 +2478,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704708000,
-    "exitDate": 1704880560,
-    "profit": -1.0,
+    "exitDate": 1705053600,
+    "profit": -0.47,
     "entryPrice": 821.95,
-    "exitPrice": 830.15
+    "exitPrice": 825.8
   },
   {
     "symbol": "JUBLFOOD",
@@ -2550,10 +2490,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704708000,
-    "exitDate": 1704880560,
-    "profit": 2.19,
+    "exitDate": 1705053600,
+    "profit": 1.63,
     "entryPrice": 534.35,
-    "exitPrice": 522.65
+    "exitPrice": 525.65
   },
   {
     "symbol": "NAVINFLUOR",
@@ -2562,10 +2502,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704708000,
-    "exitDate": 1704880560,
-    "profit": 3.32,
+    "exitDate": 1705053600,
+    "profit": 2.07,
     "entryPrice": 3609.7,
-    "exitPrice": 3490.0
+    "exitPrice": 3534.85
   },
   {
     "symbol": "COROMANDEL",
@@ -2574,10 +2514,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704794400,
-    "exitDate": 1704880560,
-    "profit": 0.2,
+    "exitDate": 1705053600,
+    "profit": -0.88,
     "entryPrice": 1170.6,
-    "exitPrice": 1168.3
+    "exitPrice": 1180.95
   },
   {
     "symbol": "ICICIBANK",
@@ -2586,10 +2526,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704794400,
-    "exitDate": 1704880560,
-    "profit": -1.41,
+    "exitDate": 1705053600,
+    "profit": -2.42,
     "entryPrice": 979.75,
-    "exitPrice": 993.55
+    "exitPrice": 1003.5
   },
   {
     "symbol": "PAGEIND",
@@ -2598,10 +2538,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704794400,
-    "exitDate": 1704880560,
-    "profit": -1.76,
+    "exitDate": 1705053600,
+    "profit": -1.12,
     "entryPrice": 36452.65,
-    "exitPrice": 37093.2
+    "exitPrice": 36859.15
   },
   {
     "symbol": "SRF",
@@ -2610,10 +2550,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704794400,
-    "exitDate": 1704880620,
-    "profit": 0.75,
+    "exitDate": 1705053600,
+    "profit": -1.41,
     "entryPrice": 2311.35,
-    "exitPrice": 2294.0
+    "exitPrice": 2343.95
   },
   {
     "symbol": "ULTRACEMCO",
@@ -2622,10 +2562,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1704794400,
-    "exitDate": 1704880620,
-    "profit": 1.1,
+    "exitDate": 1705053600,
+    "profit": 0.92,
     "entryPrice": 9899.1,
-    "exitPrice": 9790.05
+    "exitPrice": 9808.45
   },
   {
     "symbol": "BANDHANBNK",
@@ -2633,11 +2573,11 @@
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "OPEN",
-    "entryDate": 1704880560,
-    "exitDate": 1704880560,
-    "profit": 0.0,
-    "entryPrice": 231.0,
-    "exitPrice": 231.0
+    "entryDate": 1704880800,
+    "exitDate": 1705053600,
+    "profit": 0.39,
+    "entryPrice": 231.05,
+    "exitPrice": 230.15
   },
   {
     "symbol": "KOTAKBANK",
@@ -2645,10 +2585,34 @@
     "strategy": "SuperTrendShort",
     "entryType": "SELL",
     "exitType": "OPEN",
-    "entryDate": 1704880560,
-    "exitDate": 1704880560,
+    "entryDate": 1704880800,
+    "exitDate": 1705053600,
+    "profit": -0.68,
+    "entryPrice": 1820.8,
+    "exitPrice": 1833.25
+  },
+  {
+    "symbol": "HINDUNILVR",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1704967200,
+    "exitDate": 1705053600,
+    "profit": -0.31,
+    "entryPrice": 2536.2,
+    "exitPrice": 2544.0
+  },
+  {
+    "symbol": "HDFCBANK",
+    "interval": "1d",
+    "strategy": "SuperTrendShort",
+    "entryType": "SELL",
+    "exitType": "OPEN",
+    "entryDate": 1705053600,
+    "exitDate": 1705053600,
     "profit": 0.0,
-    "entryPrice": 1820.4,
-    "exitPrice": 1820.4
+    "entryPrice": 1641.2,
+    "exitPrice": 1641.2
   }
 ]
