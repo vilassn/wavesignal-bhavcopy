@@ -430,7 +430,7 @@
       "selected": true
     },
     "ST_PRACTISEDATE": {
-      "name": "20190525",
+      "name": "20190527",
       "value": 0,
       "selected": false
     },
@@ -446,7 +446,7 @@
     },
     "ST_LOADBARS": {
       "name": "LoadBars",
-      "value": 350,
+      "value": 370,
       "selected": false
     },
     "ST_SCANBARS": {

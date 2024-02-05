@@ -1,38 +1,38 @@
 [
   {
-    "symbol": "ASIANPAINT",
+    "symbol": "TRENT",
     "interval": "1d",
     "strategy": "ChartShortStrategy",
     "entryType": "SELL",
     "exitType": "OPEN",
-    "entryDate": 1705053600,
-    "exitDate": 1705053600,
+    "entryDate": 1707116820,
+    "exitDate": 1707116820,
     "profit": 0.0,
-    "entryPrice": 3277.8,
-    "exitPrice": 3277.8
+    "entryPrice": 3028.25,
+    "exitPrice": 3028.25
   },
   {
-    "symbol": "HINDUNILVR",
+    "symbol": "ITC",
     "interval": "1d",
     "strategy": "ChartShortStrategy",
     "entryType": "SELL",
     "exitType": "OPEN",
-    "entryDate": 1704964320,
-    "exitDate": 1705053600,
-    "profit": 0.04,
-    "entryPrice": 2544.9,
-    "exitPrice": 2544.0
+    "entryDate": 1706522400,
+    "exitDate": 1707116820,
+    "profit": 1.61,
+    "entryPrice": 449.8,
+    "exitPrice": 442.55
   },
   {
-    "symbol": "DRREDDY",
+    "symbol": "AUBANK",
     "interval": "1d",
     "strategy": "ChartShortStrategy",
     "entryType": "SELL",
     "exitType": "OPEN",
-    "entryDate": 1704964680,
-    "exitDate": 1705053600,
-    "profit": -0.32,
-    "entryPrice": 5670.95,
-    "exitPrice": 5688.85
+    "entryDate": 1706522400,
+    "exitDate": 1707116820,
+    "profit": 0.57,
+    "entryPrice": 626.35,
+    "exitPrice": 622.8
   }
 ]
