@@ -6,10 +6,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1707116820,
-    "exitDate": 1707116820,
-    "profit": 0.0,
+    "exitDate": 1715940000,
+    "profit": -53.04,
     "entryPrice": 3028.25,
-    "exitPrice": 3028.25
+    "exitPrice": 4634.55
   },
   {
     "symbol": "ITC",
@@ -18,10 +18,10 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1706522400,
-    "exitDate": 1707116820,
-    "profit": 1.61,
+    "exitDate": 1715940000,
+    "profit": 3.0,
     "entryPrice": 449.8,
-    "exitPrice": 442.55
+    "exitPrice": 436.3
   },
   {
     "symbol": "AUBANK",
@@ -30,9 +30,9 @@
     "entryType": "SELL",
     "exitType": "OPEN",
     "entryDate": 1706522400,
-    "exitDate": 1707116820,
-    "profit": 0.57,
+    "exitDate": 1715940000,
+    "profit": 0.32,
     "entryPrice": 626.35,
-    "exitPrice": 622.8
+    "exitPrice": 624.35
   }
 ]
