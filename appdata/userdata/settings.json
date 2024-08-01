@@ -204,7 +204,7 @@
     },
     {
       "name": "Fisher : {period\u003d14, signal\u003d3}",
-      "selected": true,
+      "selected": false,
       "type": "IND_FISHER",
       "params": {
         "period": 14,
@@ -277,7 +277,7 @@
     },
     {
       "name": "OBV : {period\u003d14}",
-      "selected": false,
+      "selected": true,
       "type": "IND_OBV",
       "params": {
         "period": 14
@@ -337,12 +337,12 @@
   "mSeriesLoaders": [
     {
       "name": "NSE",
-      "selected": true,
+      "selected": false,
       "loaderType": "LOADER_NSE"
     },
     {
       "name": "Yahoo",
-      "selected": false,
+      "selected": true,
       "loaderType": "LOADER_YAHOO"
     },
     {
@@ -359,12 +359,12 @@
     },
     {
       "name": "Yahoo",
-      "selected": false,
+      "selected": true,
       "loaderType": "LOADER_YAHOO"
     },
     {
       "name": "ETimes",
-      "selected": true,
+      "selected": false,
       "loaderType": "LOADER_ET"
     }
   ],
@@ -430,7 +430,7 @@
       "selected": true
     },
     "ST_PRACTISEDATE": {
-      "name": "20190527",
+      "name": "20240110",
       "value": 0,
       "selected": false
     },
@@ -446,12 +446,12 @@
     },
     "ST_LOADBARS": {
       "name": "LoadBars",
-      "value": 370,
+      "value": 2000,
       "selected": false
     },
     "ST_SCANBARS": {
       "name": "ScanBars",
-      "value": 100,
+      "value": 2000,
       "selected": false
     },
     "ST_PROFTRGT": {
